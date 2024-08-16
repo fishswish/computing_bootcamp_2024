@@ -22,6 +22,13 @@ library(scales)
 library(unvotes)
 ```
 
+
+```{r}
+#| eval: false
+x = 2
+x
+```
+
 ### Data
 
 The data we're using originally come from the **unvotes** package.
